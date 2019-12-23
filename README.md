@@ -1,2 +1,2 @@
-# Personal-Single-Page-Dark-Template
-Single page personal semantic-ui html template
+# Semantic-UI Single Page Personal Template
+Preview: http://mehmetvatanlar.com/summary/
